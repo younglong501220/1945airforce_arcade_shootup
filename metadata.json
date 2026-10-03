@@ -1,0 +1,6 @@
+{
+  "name": "1945 Air Force: Arcade Shoot 'em Up",
+  "description": "二戰經典街機空戰復刻版 - 縱向捲軸射擊、戰機選擇、僚機護航、散彈火力升級、清屏核彈與史詩巨型航空 Boss 戰！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
